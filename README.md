@@ -1,2 +1,10 @@
-# blog
-the back end logic for a simple but complicated blog as it's created with Google App Engine with python v 2.7 .. here is the essential back end development knowledge and code logic foundations with only python programming and no framework included ..
+a multi user blog where users can sign in and post blog posts as well as 'Like' and 'Comment' on other posts made on the blog. hosting this blog on Google App Engine
+created an authentication system for users to be able to register and sign in and then create blog posts!
+
+back-end topics included:
+handling user input,
+producing templated output,
+storing information in databases and data stores,
+building auth system with secure user accounts.
+
+ALL WITH NO FRAMEWORK
